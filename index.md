@@ -1,3 +1,5 @@
-# Welcome to my blog
+**Welcome**
 
-I'm glad you are here. I plan to talk about ...
+*This is my portfolio website!*
+
+I am a UX designer, front-end developer & Content creator!
